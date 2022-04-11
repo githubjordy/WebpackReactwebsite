@@ -1,0 +1,38 @@
+.mobile-nav{
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    z-index: 6;
+    display:none;
+
+}
+.mobile-nav-ul{
+    text-align: center;
+    margin-top: 180px;
+
+}
+
+
+.mobile-nav-ul-li{
+    display: block;
+      
+}
+
+.nav-mobile-links{
+
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+    font-size: 32px;
+   
+}
+
+
+@media (max-width:923px) {
+.App{
+    background-color: rebeccapurple;
+    margin:0px;
+}
+
+}

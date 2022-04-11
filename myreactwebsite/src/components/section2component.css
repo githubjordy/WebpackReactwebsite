@@ -1,0 +1,30 @@
+
+.Imagedisplays{
+    position:relative;
+    height:350px;
+    background-size:cover;
+    width:350px;
+    margin:60px;
+}
+.imagewrapper-section3{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.section2header{
+    color:darkblue;
+    font-weight:bold;
+    text-align:center;
+    background-color:whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 0px;
+  }
+
+  
