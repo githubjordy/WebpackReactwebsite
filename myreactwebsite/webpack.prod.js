@@ -41,6 +41,7 @@ module.exports = merge(common, {
           //"sass-loader" //1. Turns sass into css
         ]
       }
+      
     ]
   }
 });
